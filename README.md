@@ -1,5 +1,5 @@
 This project is an advanced security solution utilizing AI for real-time theft detection and criminal identification. By integrating facial recognition, a structured database, and an automated notification system, it enables accurate identification of individuals with known criminal records and immediate alerts to law enforcement. Built with Flask, OpenCV, and SQLite, the system is designed to enhance public safety in monitored environments, with future plans for improvements in low-light and mask detection capabilities.
-# Adding new Cciminal record
+# Adding new Criminal record
 ![Add Known Criminal ](https://github.com/user-attachments/assets/38d7f95e-34b3-4c4a-b985-eeeed866a0a1)
 
 # Record added in database
